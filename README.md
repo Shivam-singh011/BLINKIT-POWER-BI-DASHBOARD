@@ -19,4 +19,4 @@ This repository contains a Power BI dashboard designed to analyze Blinkit report
 Developed by Shivam Singh
 
 
-![image alt](
+![image alt](https://github.com/Shivam-singh011/BLINKIT-POWER-BI-DASHBOARD/blob/8c973857743aa27e28d9bfdf9bb4eae10bf94d9e/Screenshot%202025-09-11%20012120.png)
